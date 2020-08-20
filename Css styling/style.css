@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-padding-top: 70px;
+}
+
 h1 {
   font-size: 38px;
   padding: 75px 10px;
